@@ -22,10 +22,11 @@ Go · Zig · Crystal · Ruby · JavaScript · HTML/CSS · Docker
 
 ## Featured projects
 
+- [opencode-personal](https://github.com/ozgurulukir/opencode-personal) — Customized fork of OpenCode.
 - [fff.cr](https://github.com/ozgurulukir/fff.cr) — A simple file manager · Crystal
 - [agent-rule-sync](https://github.com/ozgurulukir/agent-rule-sync) — PKGBUILD-based agent rule manager · Ruby
 - [opencode-agents-sync](https://github.com/ozgurulukir/opencode-agents-sync) — OpenCode/MiMo Code plugin that updates project-level AGENTS.md after auto-compaction · JavaScript
-- [ganttpro](https://github.com/ozgurulukir/ganttpro) — Gantt chart tool · HTML
+
 
 ## Elsewhere
 
